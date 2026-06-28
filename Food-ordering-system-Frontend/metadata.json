@@ -1,0 +1,6 @@
+{
+  "name": "Food Ordering System",
+  "description": "A modern, responsive React-based food ordering platform featuring interactive customer and admin dashboards with real-time state management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
